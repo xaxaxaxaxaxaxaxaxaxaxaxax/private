@@ -1,6 +1,6 @@
 getgenv().xkylware = {
     ['Main'] = {
-        ['License'] = "N1GW-2E8V-5Z4A-9HTV",
+        ['License'] = "KEY HERE",
     },
     ['Aimbot'] = {
         ['Keybind'] = Enum.KeyCode.C,
