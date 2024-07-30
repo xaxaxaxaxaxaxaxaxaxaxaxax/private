@@ -1,0 +1,45 @@
+getgenv().xkylware = {
+    ['Main'] = {
+        ['License'] = "N1GW-2E8V-5Z4A-9HTV",
+    },
+    ['Aimbot'] = {
+        ['Keybind'] = Enum.KeyCode.C,
+        ['Prediction'] = {
+            ['Horizontal'] = 0.13318271,
+            ['Vertical'] = 0.13318271
+        },
+        ['Smoothness'] = {
+            ['Enabled'] = false,
+            ['Amount'] = 0.11
+        },
+        ['Hit'] = {
+            ['Part'] = "HumanoidRootPart",
+            ['Air'] = {
+                ['Enabled'] = true,
+                ['Jump'] = "LowerTorso",
+                ['Fall'] = "UpperTorso"
+            }
+        },
+        ['Outline Target'] = {
+            ['Enabled'] = true,
+            ['Color'] = Color3.new(1, 1, 1)
+        },
+        ['Offsets'] = {
+            ['Jump'] = {
+                ['Enabled'] = false,
+                ['Amount'] = -1
+            }
+        },
+    },
+    ['Checks'] = {
+        ['Death'] = true,
+        ['Grabbed'] = true
+    },
+    ['HvH'] = {
+        ['Cframe'] = {
+            ['Enabled'] = true,
+            ['Amount'] = 3,
+            ['Keybind'] = Enum.KeyCode.V
+        }
+    }
+}
