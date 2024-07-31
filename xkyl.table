@@ -1,13 +1,15 @@
 getgenv().xkylware = {
     ['Main'] = {
         ['License'] = "KEY HERE",
+        ['Type'] = "1",
+        ['Notifications'] = { 
+            ['Enabled'] = true,
+            ['Duration'] = 2.5
+        },
     },
     ['Aimbot'] = {
         ['Keybind'] = Enum.KeyCode.C,
-        ['Prediction'] = {
-            ['Horizontal'] = 0.13318271,
-            ['Vertical'] = 0.13318271
-        },
+        ['Prediction'] = 0.13318271,
         ['Smoothness'] = {
             ['Enabled'] = false,
             ['Amount'] = 0.11
@@ -26,7 +28,7 @@ getgenv().xkylware = {
         },
         ['Offsets'] = {
             ['Jump'] = {
-                ['Enabled'] = false,
+                ['Enabled'] = true,
                 ['Amount'] = -1
             }
         },
@@ -39,7 +41,13 @@ getgenv().xkylware = {
         ['Cframe'] = {
             ['Enabled'] = true,
             ['Amount'] = 3,
-            ['Keybind'] = Enum.KeyCode.V
-        }
+            ['Keybind'] = Enum.KeyCode.V,
+        },
+        ['Strafe'] = { 
+            ['Enabled'] = true,
+            ['Distance'] = 10,
+            ['Height'] = 1,
+            ['Speed'] = 32
+        },
     }
 }
