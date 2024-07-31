@@ -1,7 +1,7 @@
 getgenv().xkylware = {
     ['Main'] = {
         ['License'] = "KEY HERE",
-        ['Type'] = "1",
+        ['Type'] = "1", -- 1 is camlock, 2 is target aim.
         ['Notifications'] = { 
             ['Enabled'] = true,
             ['Duration'] = 2.5
