@@ -7,5 +7,6 @@ return {
     ['TFOK-K14S-0M3E-4A31'] = {user_id = 1160356736507596851, hwid = "2F82DD90-D96D-4567-8B18-986C97D87EF3", username = 'invinsion'},
     ['2AQY-ZJ5W-WPCL-SRDX'] = {user_id = 926320233868820521, hwid = "d674109b-f3fa-4ce6-afd2-ceaf7b95c05b", username = 'kryptonite1112'},
     ['66E1-19V5-CHOR-12KS'] = {user_id = 1030765647162003486, hwid = "None", username = 'dx6s'},
-    ['NW5K-EDTU-XKMI-FSMO'] = {user_id = 1253777463490777178, hwid = "CAA1EC90-0E55-44DB-8423-3A3532770B7A", username = 'floxk13'}
+    ['NW5K-EDTU-XKMI-FSMO'] = {user_id = 1253777463490777178, hwid = "CAA1EC90-0E55-44DB-8423-3A3532770B7A", username = 'floxk13'},
+    ['V1I8-5AMR-9HA6-ZY7R'] = {user_id = 1243955280732094515, hwid = "None", username = 'invinsionn'}
 }
