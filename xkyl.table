@@ -1,7 +1,7 @@
 getgenv().xkylware = {
     ['Main'] = {
         ['License'] = "KEY HERE",
-        ['Type'] = "1", -- 1 is camlock, 2 is target aim.
+        ['Type'] = "1",
         ['Notifications'] = { 
             ['Enabled'] = true,
             ['Duration'] = 2.5
@@ -9,7 +9,7 @@ getgenv().xkylware = {
     },
     ['Aimbot'] = {
         ['Keybind'] = Enum.KeyCode.C,
-        ['Prediction'] = 0.13318271,
+        ['Prediction'] = 0.15634,
         ['Smoothness'] = {
             ['Enabled'] = false,
             ['Amount'] = 0.11
@@ -22,9 +22,11 @@ getgenv().xkylware = {
                 ['Fall'] = "UpperTorso"
             }
         },
-        ['Outline Target'] = {
+        ['Highlight Target'] = {
             ['Enabled'] = true,
-            ['Color'] = Color3.new(1, 1, 1)
+            ['Fill Color'] = Color3.fromRGB(199, 110, 255),
+            ['Outline Color'] = Color3.new(0, 0, 0),
+            ['Transparency'] = 0.4,
         },
         ['Offsets'] = {
             ['Jump'] = {
@@ -47,7 +49,14 @@ getgenv().xkylware = {
             ['Enabled'] = true,
             ['Distance'] = 10,
             ['Height'] = 1,
-            ['Speed'] = 32
+            ['Speed'] = 32,
+            ['Keybind'] = Enum.KeyCode.N,
         },
-    }
+    },
+    ['Watermark'] = {
+        ['Show FPS'] = true,
+        ['Show Ping'] = true,
+        ['Show Health'] = true,
+        ['Show Username'] = true,
+    },
 }
