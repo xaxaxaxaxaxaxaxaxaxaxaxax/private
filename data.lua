@@ -11,5 +11,6 @@ return {
     ['XH4N-SWRH-APY0-13NT'] = {user_id = 1178717471474192457, hwid = "None", username = 'backindh'},
     ['7YOE-AR97-QKBX-D5SZ'] = {user_id = 1214980417669697602, hwid = "None", username = 'bankai09680'},
     ['LZUS-B9CM-TVG0-FYMZ'] = {user_id = 1264444847218233355, hwid = "BE4EAE62-F93D-4ACF-8A91-AA055929D91A", username = 'skibiditoilet123.9'},
-    ['VICB-9Z8U-8TP7-LIAV'] = {user_id = 1075942500679811124, hwid = "None", username = 'xkylsgrave.'}
+    ['VICB-9Z8U-8TP7-LIAV'] = {user_id = 1075942500679811124, hwid = "None", username = 'xkylsgrave.'},
+    ['UW4H-R64U-CLTW-8H1V'] = {user_id = 1149023627069620297, hwid = "None", username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'}
 }
