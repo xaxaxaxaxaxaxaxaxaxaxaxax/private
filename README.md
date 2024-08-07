@@ -8,5 +8,4 @@ https://discord.com/invite/89UCaRnrZK |
 https://discord.com/invite/89UCaRnrZK |
 ------------------------------------- 
 # best paste!!!! 🤑🤑🤑🤑 ezzz
-![8dff2ae0-a37b-4a4e-bde3-1250f57c8b53](https://github.com/user-attachments/assets/0762e77b-559f-4680-9476-13dce8bd6fec)
-![d49e6437-a314-446b-b348-1dffb74e40bb](https://github.com/user-attachments/assets/84c04831-13a4-4b2a-815a-1884d8dcf58d)
+![Mandela_20240804_131207_0000](https://github.com/user-attachments/assets/a12bd3da-c84f-400d-b53a-29b56f1e7355)
