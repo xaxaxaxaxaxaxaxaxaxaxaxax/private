@@ -1,4 +1,4 @@
-xkylware tapping nigga come buy!!
+ tapping nigga come buy!!
 be comp!!!!
 ---------------------------------------
 https://discord.com/invite/89UCaRnrZK |
