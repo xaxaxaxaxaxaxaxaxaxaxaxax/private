@@ -13,7 +13,7 @@ return {
     ['LZUS-B9CM-TVG0-FYMZ'] = {user_id = 1264444847218233355, hwid = "BE4EAE62-F93D-4ACF-8A91-AA055929D91A", username = 'skibiditoilet123.9'},
     ['VICB-9Z8U-8TP7-LIAV'] = {user_id = 1075942500679811124, hwid = "891EC84C-CA7E-42E1-A4F2-9F5719EA4ED5", username = 'xkylsgrave.'},
     ['UW4H-R64U-CLTW-8H1V'] = {user_id = 1149023627069620297, hwid = "174f7a74-a701-4251-b1f3-7006e8f6f6a6", username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
-    ['B4UI-XMJN-RADT-0NEC'] = {user_id = 1268384663341367318, hwid = "None", username = 'zymisback'},
+    ['B4UI-XMJN-RADT-0NEC'] = {user_id = 1268384663341367318, hwid = "1602C579-C90E-433D-A254-90B1D3DC26C1", username = 'zymisback'},
     ['SXF0-2XV0-ZJLM-42X4'] = {user_id = 990393883848491068, hwid = "None", username = 'aniss_1'},
     ['OCOX-RKBT-B8S8-FPOU'] = {user_id = 741295066835845225, hwid = "81ACEB8F-C95B-4C14-9C1B-111E8D516E0C", username = '.888s'}
 }
