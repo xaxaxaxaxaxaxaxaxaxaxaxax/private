@@ -7,7 +7,7 @@ getgenv().configuration = {
             ["Air"] = "UpperTorso"
         },
         ["Notifications"] = true,
-        ["License"] = "UW4H-R64U-CLTW-8H1V",
+        ["License"] = "KEY HERE",
         ["Type"] = "1" -- Type 1 is Camlock, Type 2 is Target Aim.
     },
     ["Aimbot"] = {
