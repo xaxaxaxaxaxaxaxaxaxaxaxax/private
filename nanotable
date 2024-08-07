@@ -1,4 +1,4 @@
-getgenv().xkylware = {
+getgenv().nano = {
     ['Main'] = {
         ['License'] = "KEY HERE",
         ['Type'] = "1",
@@ -24,9 +24,9 @@ getgenv().xkylware = {
         },
         ['Highlight Target'] = {
             ['Enabled'] = true,
-            ['Fill Color'] = Color3.fromRGB(199, 110, 255),
+            ['Fill Color'] = Color3.new(1, 1, 1),
             ['Outline Color'] = Color3.new(0, 0, 0),
-            ['Transparency'] = 0.4,
+            ['Transparency'] = 0.5,
         },
         ['Offsets'] = {
             ['Jump'] = {
@@ -52,11 +52,5 @@ getgenv().xkylware = {
             ['Speed'] = 32,
             ['Keybind'] = Enum.KeyCode.N,
         },
-    },
-    ['Watermark'] = {
-        ['Show FPS'] = true,
-        ['Show Ping'] = true,
-        ['Show Health'] = true,
-        ['Show Username'] = true,
     },
 }
