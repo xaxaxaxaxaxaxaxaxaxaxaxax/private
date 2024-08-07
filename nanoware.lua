@@ -1,7 +1,7 @@
 getgenv().configuration = {
     ["Main"] = {
         ["Keybind"] = Enum.KeyCode.Q,
-        ["Prediction"] = 0.13318271,
+        ["Prediction"] = 0.15634,
         ["Point"] = {
             ["Ground"] = "HumanoidRootPart",
             ["Air"] = "UpperTorso"
