@@ -1,19 +1,31 @@
 getgenv().configuration = {
     ["Main"] = {
+        ["Notifications"] = true,
+        ["Type"] = "1",
+        ["Whitelist"] = {
+            ["License"] = "KEY HERE"
+        }
+    },
+    ["Aimbot"] = {
         ["Keybind"] = Enum.KeyCode.Q,
-        ["Prediction"] = 0.15634,
+        ["Prediction"] = 0.1,
         ["Point"] = {
             ["Ground"] = "HumanoidRootPart",
             ["Air"] = "UpperTorso"
         },
-        ["Notifications"] = true,
-        ["License"] = "KEY HERE",
-        ["Type"] = "1" -- Type 1 is Camlock, Type 2 is Target Aim.
-    },
-    ["Aimbot"] = {
         ["Smoothness"] = {
             ["Enabled"] = false,
             ["Amount"] = 0.5
+        },
+        ["Offsets"] = {
+            ["Jump"] = {
+                ["Enabled"] = true,
+                ["Amount"] = 0.065
+            },
+            ["Fall"] = {
+                ["Enabled"] = true,
+                ["Amount"] = -0.1245
+            }
         }
     },
     ["Crosshair"] = {
@@ -67,5 +79,3 @@ getgenv().configuration = {
         ["Grabbed"] = true
     }
 }
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/private/main/main.lua"))()
