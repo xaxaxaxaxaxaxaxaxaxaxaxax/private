@@ -1,7 +1,7 @@
 getgenv().configuration = {
     ["Main"] = {
         ["Notifications"] = true,
-        ["Type"] = "1",
+        ["Type"] = "1", -- Type 1 is Camlock, Type 2 is Target Aim.
         ["Whitelist"] = {
             ["License"] = "KEY HERE"
         }
