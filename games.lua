@@ -12,5 +12,6 @@ return {
     [17319408836] = {MainEvent = "MAINEVENT", Argument = "UpdateMousePos"},
     [16033173781] = {MainEvent = "MainEvent", Argument = "UpdateMousePosI"},
     [7213786345] = {MainEvent = "MainEvent", Argument = "UpdateMousePosI"},
-    [18110728826] = {MainEvent = "MainEvent", Argument = "UpdateMousePos"}
+    [18110728826] = {MainEvent = "MainEvent", Argument = "UpdateMousePos"},
+    [15644861772] = {MainEvent = ".gg/flamehood", Argument = "UpdateMousePos"}
 }
